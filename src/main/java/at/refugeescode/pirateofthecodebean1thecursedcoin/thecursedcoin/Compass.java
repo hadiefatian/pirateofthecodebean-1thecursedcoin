@@ -1,4 +1,4 @@
 package at.refugeescode.pirateofthecodebean1thecursedcoin.thecursedcoin;
 
-public class TheCursedCoin {
+public class Compass {
 }
